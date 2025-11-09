@@ -1,7 +1,5 @@
 # 💱 Döviz & Altın Takipçisi v1.0
 
-![Preview](preview.png)
-
 **Döviz & Altın Takipçisi**, anlık olarak döviz ve altın fiyatlarını takip etmenizi sağlayan modern bir masaüstü uygulamasıdır.  
 Python ile geliştirilmiş olup, **CustomTkinter** kütüphanesiyle modern, sade ve karanlık temalı bir arayüze sahiptir.
 
